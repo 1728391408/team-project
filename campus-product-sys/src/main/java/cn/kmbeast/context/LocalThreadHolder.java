@@ -6,7 +6,6 @@ import java.util.Map;
 /**
  * 用户身份支持器
  *
- * @author 【B站：程序员辰星】
  */
 public class LocalThreadHolder {
 
