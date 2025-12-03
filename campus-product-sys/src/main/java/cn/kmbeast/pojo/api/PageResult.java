@@ -9,7 +9,6 @@ import lombok.NoArgsConstructor;
  * 通用响应 - 分页
  *
  * @param <T> 泛型
- * @author 【B站：程序员辰星】
  */
 @EqualsAndHashCode(callSuper = true)
 @AllArgsConstructor
